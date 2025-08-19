@@ -106,6 +106,6 @@ python auth.py
 
 ---
 
-## ✍️ Автор: **TimeDavid0112**
+## ✍️ Автор: **@TimeDavid0112**
 
 ---
